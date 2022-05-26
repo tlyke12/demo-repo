@@ -6,3 +6,4 @@ Learning Git and Github
 #Completing my first commit
 
 #Checking push updates - push update configured and successful.
+#Adding line for terminal
